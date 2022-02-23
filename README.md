@@ -1,5 +1,3 @@
-# waitwhat.sh
-My caddy browse tempalte used on [files.waitwhat.sh](https://files.waitwhat.sh/)
+# MERGED
 
-## License
-This project is not licensed under any open source license, though feel free to take inspiration from it.
+This project has been merged into [wait-what/waitwhat.sh](https://github.com/wait-what/waitwhat.sh)
